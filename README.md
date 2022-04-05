@@ -2,7 +2,11 @@
 
 ![Screenshot_6](https://user-images.githubusercontent.com/84737230/160890478-ac108b8e-929c-482a-9d66-8526361f3cd4.png)
 
-Consulta automatizada de dados na web e envio de mensagem automatizada no whatsapp 
+Consulta automatizada de dados na web e envio de mensagem automatizada no whatsapp e email de acordo com a situação identificada.
+
+## 📄 Modelo
+![dashboard](https://user-images.githubusercontent.com/84737230/161814208-2bff61bb-3fb0-415b-906a-c2264a438808.png)
+
 
 ## 💻 Pré-Requisitos
 
