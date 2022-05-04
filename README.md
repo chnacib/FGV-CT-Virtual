@@ -35,7 +35,7 @@ O próximo passo é importar a planilha `Modelo.xlsx` clicando no botão "Import
 ![import_sheet](https://user-images.githubusercontent.com/84737230/160893653-8a570be6-512b-4bfa-999a-04f4a6731fbc.gif)
 
 
-Quando tu estiver configurado, aperte o botão "Start" e aguarde o processo.
+Quando tudo estiver configurado, aperte o botão "Start" e aguarde o processo.
 
 ![Screenshot_5](https://user-images.githubusercontent.com/84737230/160894003-8d65b1b6-5d42-4d3c-8a2b-00296771fff5.png)
 
@@ -45,7 +45,7 @@ Você poderá monitorar a execução do bot de acordo com a mensagem exibida aba
 
 ![monitoramento](https://user-images.githubusercontent.com/84737230/160895420-d26d92e9-fdb4-48a8-ae93-4dd1e5eafbcd.gif)
 
-A Barrinha de carregamento determina a quantidade de candidatos coletados na Prepona
+A Barrinha de carregamento é determinada pela quantidade de candidatos coletados na Prepona
 ```
 start_value = 100/len(listacpf)
 progress_value = start_value
